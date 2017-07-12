@@ -1,2 +1,2 @@
-// The core.
+// The new IA core.
 import numpy as np
